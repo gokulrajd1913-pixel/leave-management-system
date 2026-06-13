@@ -1,2 +1,16 @@
-# leave-management-system
-Employee Leave Management System using Python, Flask and MySQL
+# Leave Management System
+
+## Features
+- Employee Login
+- Apply Leave
+- Leave Status
+- Admin Approval
+
+## Technologies
+- Python
+- Flask
+- MySQL
+
+## Future Enhancements
+- Email Notifications
+- Dashboard Analytics
